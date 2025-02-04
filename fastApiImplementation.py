@@ -1,4 +1,3 @@
-
 # Installing the required libraries
 !pip install fastapi uvicorn nest_asyncio python-multipart googletrans==4.0.0-rc1 requests
 
